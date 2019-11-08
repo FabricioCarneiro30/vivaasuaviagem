@@ -60,4 +60,6 @@ p.text-dark{
 
 .copy{
     margin-right: 10px;
+    display: fixed;
+    bottom: 0px;
 }
