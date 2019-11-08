@@ -54,4 +54,10 @@ p.text-dark{
     color: white;
     text-align: center;
     margin-top: 5vw;
+    display: flex;
+    justify-content: center;
+}
+
+.copy{
+    margin-right: 10px;
 }
