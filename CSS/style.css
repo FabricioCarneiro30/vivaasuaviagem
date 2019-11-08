@@ -1,16 +1,17 @@
 *{
     margin: 0px;
     padding: 0px;
+    max-width: 100%;
 }
 
 .carrossel{
-    margin-top: 10vw;
+    margin-top: 8vw;
     margin-left: 45vh;
     margin-bottom: 10%;
     display: flex;
     max-width: 800px;
     max-height: 600px;
-
+    margin-right: 45vh;
 }
 
 .bg-dark{
@@ -20,5 +21,37 @@
 .info{
     display: flex;
     margin-left: 45vh;
+    text-align: justify;
+    margin-left: 45vh;
 }
 
+.img-body{
+    height: 250px;
+    width: 250px;
+}
+
+.linha{
+    border: solid 1px rgb(156, 154, 154);
+    margin-left: 10vh;
+    margin-right: 10vh;
+    border-radius: 2px;
+    margin-bottom: 5vw;
+}
+
+p.text-dark{
+    max-width: 500px;
+    margin-left: 10vh;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 5vw;
+}
+
+.rodape{
+    border: solid 50px #333;
+    background: #333;
+    color: white;
+    text-align: center;
+    margin-top: 5vw;
+}
