@@ -7,16 +7,18 @@
     display: flex;
     justify-content: center;
     margin-top: 10vw;
+    max-width: 100%;
 }
 
-.texto-contato{
+p.texto-contato{
     text-align: center;  
     max-width: 100vh;
+    width: 100%;
 }
 
 .incon-insta{
-    max-width: 20vh;
-    max-height: 20vw;
-    display: flex;
+    max-width: 10vh;
+    max-height: 10vw;
+    display: flex;  
 }
 
